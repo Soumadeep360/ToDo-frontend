@@ -1,5 +1,5 @@
 #Netlify Link:
-https://app.netlify.com/sites/gleaming-taiyaki-bbdabd/deploys/64a0065a50d4bf1acd7df699
+https://64a0065a50d4bf1acd7df699--gleaming-taiyaki-bbdabd.netlify.app/
 
 # Getting Started with Create React App
 
